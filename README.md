@@ -1,4 +1,6 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71158&background=22222200&random=false&width=435&lines=Hello!+I'm+Aggrey+Rono.+%F0%9F%91%8B;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+
+
 👨‍💻 Full-Stack Web Developer | React | Python | Flask RESTful<br><br>Passionate about building dynamic and scalable web applications with a focus on clean code and efficient design. Experienced in creating intuitive front-end interfaces using React and developing robust back-end APIs with Python and Flask RESTful.<br><br>🔧 Tech Stack:<br><br>Front-End: React, JavaScript (ES6+), HTML5, CSS3, Redux, Material-UI, Bootstrap<br>Back-End: Python, Flask, Flask-RESTful, SQLAlchemy, PostgreSQL, SQLite, REST APIs<br>Tools & Workflow: Git, Docker, VS Code, pytest, Postman<br>I thrive on solving complex problems, integrating front-end and back-end seamlessly, and contributing to projects that improve user experiences. Let's collaborate to build something amazing!
 
 
